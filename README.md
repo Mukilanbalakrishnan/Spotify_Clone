@@ -6,7 +6,7 @@
 
 
 ## Figma Prototype
-![Prototype Image](https://github.com/Mukilanbalakrishnan/Project-1-CoderOne/blob/main/MacBook%20Pro%2016_%20-%201.png)
+![Prototype Image](Image 1.png)
 ![Prototype Image](https://github.com/Mukilanbalakrishnan/Project-1-CoderOne/blob/main/MacBook%20Pro%2016_%20-%204.png)
 ![Prototype Image](https://github.com/Mukilanbalakrishnan/Project-1-CoderOne/blob/main/MacBook%20Pro%2016_%20-%205.png)
 ![Prototype Image](https://github.com/Mukilanbalakrishnan/Project-1-CoderOne/blob/main/MacBook%20Pro%2016_%20-%206.png)
